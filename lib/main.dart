@@ -1,7 +1,8 @@
-import 'package:custom_painter/painter.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+import 'painter.dart';
+
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
