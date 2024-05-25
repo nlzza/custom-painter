@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Group Members
+
+- Group: 6
+- Member 1: Muhammad Moaaz bin Sajjad (20k0154)
+- Member 2: Saad bin Khalid (20k0161)
+- Member 3: Syed Abdul Rehman (20k0239)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
